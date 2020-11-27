@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+
+}
+
+.image_accueil{
+    position: absolute;
+    top: 0;
+}
+
+.logo img{
+    z-index: 2;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+
+}
+.titre h1{
+    position: absolute;
+    z-index: 2;
+    top: 250px;
+    left: 45.5px;
+
+}
+
+.titre h2{
+    position: absolute;
+    z-index: 2;
+    top: 350px;
+    left: 100px;
+}
+
+.tagline h3{
+    position: absolute;
+    z-index: 2;
+    top: 600px;
+    left: 140px;
+}
+
+.ligne_verticale{
+    position: absolute;
+    width:5px;
+    border-left:3px solid #698187;
+    height:43px;
+    top: 761.5px;
+    left: 187.5px;
+}
+
+.first_fond{
+    width:375px;
+    height:1075px;
+    background:#BEDEE7;
+}
+
+.qu_est-ce h2{
+    position: absolute;
+    top: 800px;
+    left: 130px;
+    text-decoration: white underline;
+}
+
+.qu_est-ce p{
+    position: absolute;
+    top:859px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.second_fond{
+    height: 317px;
+    width: 375px;
+    top: 1166px;
+    background-color: white;
+}
+
+.troisieme_fond{
+    height: 351px;
+    width: 375px;
+    top: 1483px;
+    background-color: #BEDEE7;
+}
+
+.quatrieme_fond{
+    height: 245px;
+    width: 375px;
+    top: 1834px;
+    background-color: white;
+}
+
+.footer_fond{
+    height: 147.97px;
+    width: 375px;
+    top: 2079px;
+    background-color: #122D5E;
+}
+
+.premier_tweet img{
+    position: absolute;
+    top: 1090px;
+    left: 53px;
+    box-shadow: #777 0px 15px 10px -8px;
+}
+
+.premier_tweet p{
+    position: absolute;
+    top: 1268px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.deuxieme_tweet img{
+    position: absolute;
+    top: 1392px;
+    left: 50px;
+    box-shadow: #777 0px 15px 10px -8px;
+}
+
+.deuxieme_tweet p{
+    position: absolute;
+    top: 1601px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.troisieme_tweet img{
+    position: absolute;
+    top: 1732px;
+    left: 52px;
+    box-shadow: #777 0px 15px 10px -8px;
+}
+
+.troisieme_tweet p{
+    position: absolute;
+    top: 1963px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.linkedin img{
+    position: absolute;
+    top: 2114px;
+    left: 310px;
+}
+
+
+.insta img{
+    position: absolute;
+    top: 2114px;
+    left: 37px;
+}
+
+.auteur h4{
+    position: absolute;
+    top: 2070px;
+    left: 124px;
+}
+
+.mailto p{
+    position: absolute;
+    top: 2110px;
+    left: 105px;
+}
+
+.exo img{
+    position: absolute;
+    top: 2163px;
+    left: 15px;
+}
+
+.exo p{
+    position: absolute;
+    top: 2174px;
+    left: 69px;
+}

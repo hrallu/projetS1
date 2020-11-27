@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
 html{
     font-size: 62.5%;
 }
 
 body{
-    font-family: Poppins;
+    font-family: "Montserrat SemiBold";
     font-size:1.6em ;
     line-height: 1.6;
     margin: 0 20px;
@@ -13,5 +11,74 @@ body{
 
 a{
     text-decoration: none;
+    color: white;
+}
+
+.titre h1{
+    font-family: Anton;
+    font-size: 65px;
+    color: white;
+    letter-spacing: 5px;
+}
+
+.titre h2{
+    font-family: Anton;
+    font-size: 35px;
+    color: white;
+    letter-spacing: 5px;
+}
+
+.tagline h3{
+    font-family: "Poppins ExtraBold";
+    font-size: 20px;
+    color: #CFE7ED;
+
+}
+
+.qu_est-ce h2{
+    font-family: "Poppins SemiBold";
+    color: white;
+    font-size: 20px;
+}
+
+.qu_est-ce p{
+    font-family: "Montserrat Light";
+    font-size: 17px;
+    color: black;
+}
+
+.premier_tweet p{
+    font-family: Poppins;
+    font-size: 16px;
+    color: #76A0C6;
+}
+
+.deuxieme_tweet p{
+    font-family: Poppins;
+    font-size: 16px;
+    color: white;
+}
+
+.troisieme_tweet p{
+    font-family: Poppins;
+    font-size: 16px;
+    color: #76A0C6;
+}
+
+.auteur h4{
+    font-family: "Montserrat SemiBold";
+    font-size: 16px;
+    color: white;
+}
+
+.mailto p{
+    font-family: "Montserrat Thin";
+    font-size: 16px;
+    color: white;
+}
+
+.exo p{
+    font-family: "Montserrat Thin";
+    font-size: 11px;
     color: white;
 }
