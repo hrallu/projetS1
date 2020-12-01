@@ -131,10 +131,11 @@ a{
 }
 
 .deux_part_article p{
-    font-family: 'Montserrat ', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: lighter;
     font-size: 17px;
     text-indent: 50px;
+    color: white;
 }
 
 .deux_part_article a{
