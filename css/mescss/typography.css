@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 html{
     font-size: 62.5%;
 }
@@ -81,4 +84,78 @@ a{
     font-family: "Montserrat Thin";
     font-size: 11px;
     color: white;
+}
+
+.titre_artcicle{
+    font-family: Anton;
+    font-size: 20px;
+}
+
+.chapo p{
+    font-family: Montserrat;
+    font-style: italic;
+    font-size: 20px;
+    text-indent: 50px;
+}
+
+.pr_part_article p{
+    font-family: "Montserrat Light";
+    font-size: 17px;
+    text-indent: 50px;
+}
+
+.pr_part_article a{
+    color: black;
+    font-family: "Montserrat SemiBold";
+    text-decoration: underline black;
+}
+
+
+.pr_part_article i{
+    color: black;
+    font-family: "Montserrat SemiBold";
+}
+
+.deux_part_article p{
+    font-family: "Montserrat Light";
+    font-size: 17px;
+    text-indent: 50px;
+}
+
+.deux_part_article a{
+    color: white;
+    font-family: "Montserrat SemiBold";
+    text-decoration: underline white;
+}
+
+.deux_part_article i{
+    color: white;
+    font-family: "Montserrat SemiBold";
+}
+
+.trois_pat_article p{
+    font-family: "Montserrat Light";
+    font-size: 17px;
+    text-indent: 50px;
+}
+
+.trois_pat_article i{
+    color: black;
+    font-family: "Montserrat SemiBold";
+}
+
+.para p{
+    font-family: "Montserrat Light";
+    font-size: 17px;
+    text-indent: 50px;
+}
+
+.para i{
+    color: black;
+    font-family: "Montserrat SemiBold";
+}
+
+.titte_galerie p{
+    font-family: Poppins;
+    font-size: 25px;
 }
