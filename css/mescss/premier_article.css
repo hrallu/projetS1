@@ -2,6 +2,14 @@ body{
     margin: 0;
 }
 
+.logo img{
+    z-index: 2;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+
+}
+
 .premeir_fond{
     width:375px;
     height:1390px;
