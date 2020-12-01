@@ -6,7 +6,8 @@ html{
 }
 
 body{
-    font-family: 'Montserrat Light', sans-serif ;
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: lighter;
     font-size:1.6em ;
     line-height: 1.6;
     margin: 0 20px;
@@ -32,56 +33,65 @@ a{
 }
 
 .tagline h3{
-    font-family: 'Poppins ExtraBold', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
     font-size: 20px;
     color: #CFE7ED;
 
 }
 
 .qu_est-ce h2{
-    font-family: 'Poppins SemiBold', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
     color: white;
     font-size: 20px;
 }
 
 .qu_est-ce p{
-    font-family: 'Montserrat Light', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-size: 17px;
     color: black;
 }
 
 .premier_tweet p{
     font-family: 'Poppins', sans-serif;
+    font-weight: normal;
     font-size: 16px;
     color: #76A0C6;
 }
 
 .deuxieme_tweet p{
     font-family: 'Poppins', sans-serif;
+    font-weight: normal;
     font-size: 16px;
     color: white;
 }
 
 .troisieme_tweet p{
     font-family: 'Poppins', sans-serif;
+    font-weight: normal;
     font-size: 16px;
     color: #76A0C6;
 }
 
 .auteur h4{
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     font-size: 16px;
     color: white;
 }
 
 .mailto p{
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-size: 16px;
     color: white;
 }
 
 .exo p{
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-size: 11px;
     color: white;
 }
@@ -92,70 +102,82 @@ a{
 }
 
 .chapo p{
-    font-family: 'Montserrat Light', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-style: italic;
     font-size: 20px;
     text-indent: 50px;
 }
 
 .pr_part_article p{
-    font-family: 'Montserrat Light', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-size: 17px;
     text-indent: 50px;
 }
 
 .pr_part_article a{
     color: black;
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     text-decoration: underline black;
 }
 
 
 .pr_part_article i{
     color: black;
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .deux_part_article p{
-    font-family: 'Montserrat Light', sans-serif;
+    font-family: 'Montserrat ', sans-serif;
+    font-weight: lighter;
     font-size: 17px;
     text-indent: 50px;
 }
 
 .deux_part_article a{
     color: white;
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     text-decoration: underline white;
 }
 
 .deux_part_article i{
     color: white;
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .trois_pat_article p{
-    font-family: 'Montserrat Light', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-size: 17px;
     text-indent: 50px;
 }
 
 .trois_pat_article i{
     color: black;
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .para p{
-    font-family: 'Montserrat Light', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
     font-size: 17px;
     text-indent: 50px;
 }
 
 .para i{
     color: black;
-    font-family: 'Montserrat SemiBold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .titte_galerie p{
     font-family: 'Poppins', sans-serif;
+    font-weight: normal;
     font-size: 25px;
 }
