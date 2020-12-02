@@ -117,10 +117,8 @@ a{
 }
 
 .pr_part_article a{
-    color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    text-decoration: underline black;
 }
 
 
@@ -135,18 +133,14 @@ a{
     font-weight: lighter;
     font-size: 17px;
     text-indent: 50px;
-    color: white;
 }
 
 .deux_part_article a{
-    color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    text-decoration: underline white;
 }
 
 .deux_part_article i{
-    color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
@@ -159,7 +153,6 @@ a{
 }
 
 .trois_pat_article i{
-    color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
@@ -181,4 +174,16 @@ a{
     font-family: 'Poppins', sans-serif;
     font-weight: normal;
     font-size: 25px;
+}
+
+.titre_inter p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.en_savoir_plus p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: 17px;
 }

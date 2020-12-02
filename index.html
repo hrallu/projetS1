@@ -22,7 +22,7 @@
             <ul>
                 <li><a href="premier_article.html">Histoire</a></li>
                 <div id="trait_dessus"><hr></div>
-                <li><a href="">Problèmes</a></li>
+                <li><a href="deuxieme_article.html">Problèmes</a></li>
                 <div id="trait_dessus"><hr></div>
                 <li><a href="">Solutions</a></li>
                 <div id="trait_dessus"><hr></div>
@@ -35,7 +35,26 @@
             <img src="img/header/icon-feuille-vert.png" height="34.78" width="44">
         </div>
 
+
+
+
     </header>
+
+    <script>
+        var departScroll = windows.pageYOffset;
+        windows.onscroll = function() {
+            var currentScrollpos = windows.pageYOffset;
+
+            if (departScroll > currentScrollpos){
+                document.getElementById("header").style.top="0";
+        }
+        else{
+            document.getElementById("header").style.top="-100px";
+        }
+        departScroll = currentScrollpos;
+        }
+
+    </script>
 
     <div class="titre">
         <h1>DARK SIDE</h1>
@@ -68,8 +87,8 @@
 
 <div class="deuxieme_tweet">
     <div class="troisieme_fond"></div>
-    <img src="img/accueil/tweet%202.jpg" height="182" width="276">
-    <p>Connaissez-vous réellement la face cachée du groupe Facebook ?</p>
+    <a href="deuxieme_article.html"><img src="img/accueil/tweet%202.jpg" height="182" width="276">
+    <p>Connaissez-vous réellement la face cachée du groupe Facebook ?</p></a>
 </div>
 
 <div class="troisieme_tweet">

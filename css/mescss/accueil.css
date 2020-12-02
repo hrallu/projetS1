@@ -7,6 +7,7 @@ body{
 .image_accueil{
     position: absolute;
     top: 0;
+    width: 100%;
 }
 
 .logo img{
@@ -45,10 +46,11 @@ body{
     height:43px;
     top: 761.5px;
     left: 187.5px;
+
 }
 
 .first_fond{
-    width:375px;
+    width:100%;
     height:1075px;
     background:#BEDEE7;
 }
@@ -70,28 +72,28 @@ body{
 
 .second_fond{
     height: 317px;
-    width: 375px;
+    width: 100%;
     top: 1166px;
     background-color: white;
 }
 
 .troisieme_fond{
     height: 351px;
-    width: 375px;
+    width: 100%;
     top: 1483px;
     background-color: #BEDEE7;
 }
 
 .quatrieme_fond{
     height: 245px;
-    width: 375px;
+    width: 100%;
     top: 1834px;
     background-color: white;
 }
 
 .footer_fond{
     height: 147.97px;
-    width: 375px;
+    width: 100%;
     top: 2079px;
     background-color: #122D5E;
 }
