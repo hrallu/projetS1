@@ -187,3 +187,27 @@ a{
     font-weight: normal;
     font-size: 17px;
 }
+
+.inter_titre,.inter_titre2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.part_1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 17px;
+}
+
+.inter_titre1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.lien a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+}
