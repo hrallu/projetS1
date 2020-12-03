@@ -91,7 +91,7 @@ a{
 
 .exo p{
     font-family: 'Montserrat', sans-serif;
-    font-weight: lighter;
+    font-weight: inherit;
     font-size: 11px;
     color: white;
 }
@@ -123,7 +123,6 @@ a{
 
 
 .pr_part_article i{
-    color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
@@ -155,6 +154,18 @@ a{
 .trois_pat_article i{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+}
+
+.trois_pat_article a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.question p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 17px;
+    text-indent: 50px;
 }
 
 .para p{
