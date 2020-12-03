@@ -1,0 +1,364 @@
+body{
+    margin: 0;
+}
+
+.logo img{
+    z-index: 2;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+
+}
+
+.premier_fond{
+    width:100%;
+    height:900px;
+    top: 0;
+    position: absolute;
+    background: #7893C4;
+}
+
+.titre_artcicle p{
+    position: absolute;
+    top:99px ;
+    left:31px ;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.titre_artcicle img{
+    position: absolute;
+    top: 155px;
+    left: 15.5px;
+}
+
+.pr_part_article p{
+    position: absolute;
+    top: 200px;
+    left: 31px;
+    margin-left: 15px;
+    margin-right: 30px;
+    color: #FFFFFF;
+}
+
+.deuxieme_fond{
+    width:100%;
+    height:296px;
+    top: 900px;
+    position: absolute;
+    background: #3D6D9F;
+}
+
+.titre_artcicle_ap p{
+    position: absolute;
+    top:905px ;
+    left:31px ;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.titre_artcicle_ap img{
+    position: absolute;
+    top: 960px;
+    left: 15.5px;
+}
+
+.theo img{
+    position: absolute;
+    top: 920px;
+    left: -67px;
+}
+
+.theo p{
+    position: absolute;
+    top:1100px ;
+    left:90px ;
+    text-align: center;
+    color: white;
+}
+
+.troisieme_fond{
+    width:100%;
+    height:227px;
+    top: 1196px;
+    position: absolute;
+    background: white;
+}
+
+.david_p img{
+    position: absolute;
+    top: 1200px;
+    left: 0px;
+}
+
+.david_p p{
+    position: absolute;
+    top:1325px ;
+    margin-left: 190px;
+    text-align: center;
+    color: black;
+}
+
+
+.quatrieme_fond{
+    width:100%;
+    height:222px;
+    top: 1423px;
+    position: absolute;
+    background: #3D6D9F;
+}
+
+.simon img{
+    position: absolute;
+    top: 1380px;
+    left: 0px;
+}
+
+.simon p{
+    position: absolute;
+    top:1550px ;
+    left:150px ;
+    text-align: center;
+    color: white;
+}
+
+.cinq_fond{
+    width:100%;
+    height:258px;
+    top: 1645px;
+    position: absolute;
+    background: white;
+}
+
+.david_r img{
+    position: absolute;
+    top: 1620px;
+    left: -65px;
+}
+
+.david_r p{
+    position: absolute;
+    top:1790px ;
+    margin-left: 190px;
+    text-align: center;
+    color: black;
+}
+
+
+.six_fond{
+    width:100%;
+    height:222px;
+    top: 1903px;
+    position: absolute;
+    background: #3D6D9F;
+}
+
+.gaga img{
+    position: absolute;
+    top: 1950px;
+    left: 18px;
+}
+
+.gaga p{
+    position: absolute;
+    top:2020px ;
+    left:225px ;
+    text-align: center;
+    color: white;
+}
+
+
+.sept_fond{
+    width:100%;
+    height:237px;
+    top: 2125px;
+    position: absolute;
+    background: white;
+}
+
+.mateo img{
+    position: absolute;
+    top: 2140px;
+    left: 0px;
+}
+
+.mateo p{
+    position: absolute;
+    top:2240px ;
+    margin-left: 241px;
+    text-align: center;
+    color: black;
+}
+
+
+.huit_fond{
+    width:100%;
+    height:222px;
+    top: 2362px;
+    position: absolute;
+    background: #3D6D9F;
+}
+
+.cha img{
+    position: absolute;
+    top: 2380px;
+    left: 18px;
+}
+
+.cha p{
+    position: absolute;
+    top:2470px ;
+    left:207px ;
+    text-align: center;
+    color: white;
+}
+
+.neuf_fond{
+    width:100%;
+    height:219px;
+    top: 2584px;
+    position: absolute;
+    background: white;
+}
+
+.mohamed img{
+    position: absolute;
+    top: 2517px;
+    left: 0px;
+}
+
+.mohamed p{
+    position: absolute;
+    top:2700px ;
+    margin-left: 225px;
+    text-align: center;
+    color: black;
+}
+
+.dix_fond{
+    width:100%;
+    height:222px;
+    top: 2803px;
+    position: absolute;
+    background: #3D6D9F;
+}
+
+.elora img{
+    position: absolute;
+    top: 2800px;
+    left: -15px;
+}
+
+.elora p{
+    position: absolute;
+    top:2925px ;
+    left:256px ;
+    text-align: center;
+    color: white;
+}
+
+
+.onze_fond{
+    width:100%;
+    height:241px;
+    top: 3025px;
+    position: absolute;
+    background: white;
+}
+
+.yanis img{
+    position: absolute;
+    top: 3050px;
+    left: 17px;
+}
+
+.yanis p{
+    position: absolute;
+    top:3150px ;
+    margin-left: 229px;
+    text-align: center;
+    color: black;
+}
+
+
+.douze_fond{
+    width:100%;
+    height:271px;
+    top: 3266px;
+    position: absolute;
+    background: #3D6D9F;
+}
+
+.lucie img{
+    position: absolute;
+    top: 3300px;
+    left: 18px;
+}
+
+.lucie p{
+    position: absolute;
+    top:3400px ;
+    left:229px ;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.footer_fond{
+    position: absolute;
+    height: 147.97px;
+    width: 100%;
+    top: 3537px;
+    background-color: #122D5E;
+}
+
+.linkedin img{
+    position: absolute;
+    top: 3572px;
+    left: 310px;
+}
+
+
+.insta img{
+    position: absolute;
+    top: 3572px;
+    left: 37px;
+}
+
+
+
+.auteur h4{
+    position: absolute;
+    top: 3528px;
+    left: 124px;
+}
+
+.mailto p{
+    position: absolute;
+    top: 3568px;
+    left: 105px;
+}
+
+.exo img{
+    position: absolute;
+    top: 3621px;
+    left: 15px;
+}
+
+.exo p{
+    position: absolute;
+    top: 3632px;
+    left: 69px;
+}
+
+

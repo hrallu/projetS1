@@ -183,7 +183,7 @@ body{
 .footer_fond{
     position: absolute;
     height: 147.97px;
-    width: 375px;
+    width: 100%;
     top: 4500px;
     background-color: #122D5E;
 }
