@@ -7,6 +7,7 @@ body{
     position: absolute;
     top: 18px;
     left: 18px;
+    position: fixed;
 }
 
 
@@ -138,6 +139,7 @@ body{
     margin-left: 15px;
     margin-right: 15px;
     color: #76A0C6;
+    white-space: nowrap;
 }
 
 .titre_inter img{

@@ -7,7 +7,7 @@ body{
     position: absolute;
     top: 18px;
     left: 18px;
-
+    position: fixed;
 }
 
 .premeir_fond{
