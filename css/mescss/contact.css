@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+}
+
+.logo img{
+    z-index: 2;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+
+}
+
+.premier_fond{
+    width:100%;
+    height:1015px;
+    top: 0;
+    position: absolute;
+    background: #94B8DE;
+}
+
+.titre_artcicle p{
+    position: absolute;
+    top:99px ;
+    left:16px ;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #E2E2E2;
+}
+
+.titre_artcicle img{
+    position: absolute;
+    top: 160px;
+    left: 15.5px;
+}
+
+.prenom input {
+    position: absolute;
+    text-align: center;
+    height: 43px;
+    width: 198px;
+    top: 300px;
+    left: 89px;
+    box-sizing: border-box  ;
+    border: 1px solid #FFF7F7;
+    background-color: transparent;
+}
+
+.prenom p{
+    position: absolute;
+    top: 240px;
+    left: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.nom input {
+    position: absolute;
+    text-align: center;
+    height: 43px;
+    width: 198px;
+    top: 406px;
+    left: 89px;
+    box-sizing: border-box  ;
+    border: 1px solid #FFF7F7;
+    background-color: transparent;
+}
+
+.nom p{
+    position: absolute;
+    top: 346px;
+    left: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.adresse_mail input {
+    position: absolute;
+    text-align: center;
+    height: 43px;
+    width: 198px;
+    top: 512px;
+    left: 89px;
+    box-sizing: border-box  ;
+    border: 1px solid #FFF7F7;
+    background-color: transparent;
+}
+
+.adresse_mail p{
+    position: absolute;
+    top: 452px;
+    left: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.objet input {
+    position: absolute;
+    text-align: center;
+    height: 43px;
+    width: 198px;
+    top: 608px;
+    left: 89px;
+    box-sizing: border-box  ;
+    border: 1px solid #FFF7F7;
+    background-color: transparent;
+}
+
+.objet p{
+    position: absolute;
+    top: 550px;
+    left: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.commentaire input {
+    position: absolute;
+    height: 170px;
+    width: 300px;
+    top: 723px;
+    left: 38px;
+    box-sizing: border-box  ;
+    border: 1px solid #FFF7F7;
+    background-color: transparent;
+}
+
+
+.commentaire p{
+    position: absolute;
+    top: 665px;
+    left: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+
+
+.envoyer input {
+    position: absolute;
+    text-align: center;
+    height: 43px;
+    width: 198px;
+    top: 925px;
+    left: 89px;
+    box-sizing: border-box  ;
+    border: 1px solid #FFF7F7;
+    background-color: transparent;
+    border-radius: 22px;
+}
+
+.envoyer p{
+    position: absolute;
+    top: 910px;
+    left: 125px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+
+
+.footer_fond{
+    position: absolute;
+    height: 147.97px;
+    width: 100%;
+    top: 1015px;
+    background-color: #122D5E;
+}
+
+.linkedin img{
+    position: absolute;
+    top: 1050px;
+    left: 310px;
+}
+
+
+.insta img{
+    position: absolute;
+    top: 1050px;
+    left: 37px;
+}
+
+
+
+.auteur h4{
+    position: absolute;
+    top: 1006px;
+    left: 124px;
+}
+
+.mailto p{
+    position: absolute;
+    top: 1046px;
+    left: 105px;
+}
+
+.exo img{
+    position: absolute;
+    top: 1099px;
+    left: 15px;
+}
+
+.exo p{
+    position: absolute;
+    top: 1110px;
+    left: 69px;
+}
