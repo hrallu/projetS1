@@ -85,13 +85,9 @@
     opacity: 0;
     transition: all .5s ease;
     text-align: center;
-    margin-right: 55px;
 }
 
-#trait_dessus{
-    padding-left: 30px;
-    padding-right: 30px ;
-}
+
 
 .menu a{
     color: #0F2957;
@@ -99,10 +95,21 @@
 }
 
 .menu-open .menu li{
-    transform: translateX();
+    transform: translateX(0);
     opacity: 1;
 }
 
+.menu li{
+    border-bottom: solid #707070 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+
+.menu li:last-child{
+    border-bottom: none;
+}
 
 
 
