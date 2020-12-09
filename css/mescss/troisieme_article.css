@@ -149,6 +149,14 @@ body{
 }
 
 
+video{
+    position: absolute;
+    top: 3750px;
+    left: 13.5px;
+    box-shadow: #777 0px 15px 20px -8px;
+}
+
+
 
 
 

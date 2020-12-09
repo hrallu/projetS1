@@ -135,12 +135,22 @@ body{
     top: 3925px;
     left: 40px;
 }
+video{
+    position: absolute;
+    top: 4050px;
+    left: 13.5px;
+    box-shadow: #777 0px 15px 20px -8px;
+}
+
 
 .en_savoir_plus img{
     position: absolute;
     left: 95px;
     top: 4350px;
 }
+
+
+
 
 .en_savoir_plus p{
     position: absolute;
